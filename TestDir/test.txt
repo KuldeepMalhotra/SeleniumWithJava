@@ -3,3 +3,6 @@ This is a sample file of git commands.
 Updated lines
 Line01
 Line02
+
+
+New Lines has been updated.
